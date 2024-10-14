@@ -4,7 +4,7 @@ const fs = require('fs');
 const cors = require('cors');
 
 const app = express();
-const port = 3000;
+const port = 25000;
 const questionsFilePath = './questions.json';
 
 app.use(bodyParser.json());
@@ -111,5 +111,5 @@ app.delete('/preguntes/:id', async (req, res) => {
 
 // Servidor en escucha
 app.listen(port, () => {
-    console.log(`Servidor corriendo en http://localhost:${port}`);
+    console.log(`Servidor corriendo en http://dam.inspedralbes.cat:${port}`);
 });
