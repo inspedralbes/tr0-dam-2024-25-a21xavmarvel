@@ -242,13 +242,13 @@ const editing = ref(false);
 const currentQuestion = ref({});
 
 const fetchQuestions = async () => {
-  const response = await axios.get('http://localhost:3000/preguntes');
+  const response = await axios.get('http://dam.inspedralbes.cat:25000/preguntes');
   questions.value = response.data.preguntes;
 };
 
 
 const addQuestion = async () => {
-  await axios.post('http://localhost:3000/preguntes', {
+  await axios.post('http://dam.inspedralbes.cat:25000/preguntes', {
     id: questions.value.length + 1,
     pregunta: newQuestion.value.pregunta,
     respostes: newQuestion.value.respostes,
@@ -275,7 +275,7 @@ const editQuestion = (question) => {
   editing.value = true; // Cambia el estado de edición a verdadero
 };
 const updateQuestion = async () => {
-  await axios.put(`http://localhost:3000/preguntes/${currentQuestion.value.id}`, {
+  await axios.put(`http://dam.inspedralbes.cat:25000/preguntes/${currentQuestion.value.id}`, {
     pregunta: currentQuestion.value.pregunta,
     respostes: currentQuestion.value.respostes,
     respuestaCorrecta: currentQuestion.value.respuestaCorrecta // Asegúrate de que esto esté bien
@@ -286,7 +286,7 @@ const updateQuestion = async () => {
   fetchQuestions(); // Vuelve a cargar las preguntas
 };
 const deleteQuestion = async (id) => {
-  await axios.delete(`http://localhost:3000/preguntes/${id}`);
+  await axios.delete(`http://dam.inspedralbes.cat:25000/preguntes/${id}`);
   fetchQuestions();
 };
 
