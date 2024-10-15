@@ -45,7 +45,7 @@ const writeQuestions = (questions) => {
 app.get('/preguntes', async (req, res) => {
     try {
         const questions = await readQuestions();
-        res.json(questions);
+        res.json(questions.preguntes);
     } catch (err) {
         res.status(500).json({ error: 'No se pudo leer el archivo' });
     }

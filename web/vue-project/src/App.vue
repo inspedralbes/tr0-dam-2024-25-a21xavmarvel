@@ -83,7 +83,7 @@
     <ul class="questions-list">
       <li
         class="question-item"
-        v-for="(question, index) in questions"
+        v-for="(question, index) in questions.preguntes"
         :key="question.id"
       >
         <div class="question-text">{{ question.pregunta }}</div>
@@ -243,7 +243,7 @@ const currentQuestion = ref({});
 
 const fetchQuestions = async () => {
   const response = await axios.get('http://dam.inspedralbes.cat:25000/preguntes');
-  questions.value = response.data.preguntes;
+  questions.value = response.data;
 };
 
 
@@ -271,19 +271,19 @@ const addQuestion = async () => {
 
 
 const editQuestion = (question) => {
-  currentQuestion.value = { ...question }; // Clona la pregunta seleccionada
-  editing.value = true; // Cambia el estado de edición a verdadero
+  currentQuestion.value = { ...question }; 
+  editing.value = true; 
 };
 const updateQuestion = async () => {
   await axios.put(`http://dam.inspedralbes.cat:25000/preguntes/${currentQuestion.value.id}`, {
     pregunta: currentQuestion.value.pregunta,
     respostes: currentQuestion.value.respostes,
-    respuestaCorrecta: currentQuestion.value.respuestaCorrecta // Asegúrate de que esto esté bien
+    respuestaCorrecta: currentQuestion.value.respuestaCorrecta
   });
 
-  editing.value = false; // Cambia el estado de edición a falso
-  currentQuestion.value = {}; // Limpia la pregunta actual
-  fetchQuestions(); // Vuelve a cargar las preguntas
+  editing.value = false; 
+  currentQuestion.value = {}; 
+  fetchQuestions(); 
 };
 const deleteQuestion = async (id) => {
   await axios.delete(`http://dam.inspedralbes.cat:25000/preguntes/${id}`);
@@ -418,9 +418,9 @@ onMounted(fetchQuestions);
 }
 
 .correct-answer-indicator {
-  color: green; /* Cambia el color según lo que prefieras */
-  font-size: 1.5em; /* Tamaño del icono */
-  margin-top: 5px; /* Espaciado */
+  color: green;
+  font-size: 1.5em; 
+  margin-top: 5px; 
 }
 
 </style>
