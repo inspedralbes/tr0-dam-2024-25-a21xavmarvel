@@ -11,9 +11,9 @@ El projecte s'ha de poder desplegar en mode desenvolupament simplement fent dock
 
 # Aquest fitxer ha de contenir com a mínim:
  * Nom dels integrant: Xavier
- * 
+   
  * Nom del projecte: QUIZ
- * 
+   
  * Petita descripció: UN QUIZ DE MARCAS PUBLICITARIAS
 
 
