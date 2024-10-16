@@ -29,4 +29,4 @@ EJEMPLO DE LAS 10 PREGUNTES
 
 PANTALLA FINAL
 
-![image](https://github.com/user-attachments/assets/b0724133-b5fc-432c-a865-ce5c91d8d842)
+![image](https://github.com/user-attachments/assets/6e46df3f-2e09-4868-bc08-bc54ae0a71c0)
