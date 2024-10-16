@@ -15,3 +15,18 @@ El projecte s'ha de poder desplegar en mode desenvolupament simplement fent dock
  * Nom del projecte: QUIZ
  * 
  * Petita descripció: UN QUIZ DE MARCAS PUBLICITARIAS
+
+
+PENPOT
+
+INICIO
+
+![image](https://github.com/user-attachments/assets/a3e76188-5acb-4bbf-b497-fb169839673e)
+
+EJEMPLO DE LAS 10 PREGUNTES
+
+![image](https://github.com/user-attachments/assets/b415b289-54eb-40a4-938c-095ef52a83cb)
+
+PANTALLA FINAL
+
+![image](https://github.com/user-attachments/assets/b0724133-b5fc-432c-a865-ce5c91d8d842)
