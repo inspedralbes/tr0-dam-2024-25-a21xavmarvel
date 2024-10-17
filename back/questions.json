@@ -22,19 +22,8 @@
         }
       ],
       "resposta_correcta": 0,
-      "imatge": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/BMW.svg/1200px-BMW.svg.png"
+      "imatge": "https://img.freepik.com/psd-gratis/representacion-3d-preguntas-fondo_23-2151455632.jpg"
     },
-
-
-
-
-
-
-
-
-
-
-
     {
       "id": 2,
       "pregunta": "Quina marca és famosa per les seves sabates de sport amb el logotip d'un swoosh?",
@@ -57,18 +46,8 @@
         }
       ],
       "resposta_correcta": 2,
-      "imatge": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Logo_NIKE.svg/2560px-Logo_NIKE.svg.png"
+      "imatge": "https://img.freepik.com/psd-gratis/representacion-3d-preguntas-fondo_23-2151455632.jpg"
     },
-
-
-
-
-
-
-
-
-
-
     {
       "id": 3,
       "pregunta": "Quina marca de refrescs és coneguda pel seu logotip vermell i blanc?",
@@ -83,7 +62,7 @@
         },
         {
           "text": "Sprite",
-          "imatge": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Sprite_2022.svg/2560px-Sprite_2022.svg.png"
+          "imatge": "https://cdn.worldvectorlogo.com/logos/sprite-8.svg"
         },
         {
           "text": "Fanta",
@@ -91,17 +70,9 @@
         }
       ],
       "resposta_correcta": "2",
-      "imatge": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Coca-Cola_logo.svg/1024px-Coca-Cola_logo.svg.png",
+      "imatge": "https://img.freepik.com/psd-gratis/representacion-3d-preguntas-fondo_23-2151455632.jpg",
       "respuestaCorrecta": "2"
     },
-
-
-
-
-
-
-
-
     {
       "id": 4,
       "pregunta": "Quina marca de tecnologia és famosa pels seus telèfons i ordinadors Mac?",
@@ -124,20 +95,8 @@
         }
       ],
       "resposta_correcta": "1",
-      "imatge": "https://1000logos.net/wp-content/uploads/2016/10/Apple-Logo.png"
+      "imatge": "https://img.freepik.com/psd-gratis/representacion-3d-preguntas-fondo_23-2151455632.jpg"
     },
-
-
-
-
-
-
-
-
-
-
-
-
     {
       "id": 5,
       "pregunta": "Quina marca de menjar ràpid és famosa pel seu logotip amb un pal de hamburguesa?",
@@ -160,20 +119,8 @@
         }
       ],
       "resposta_correcta": 0,
-      "imatge": "https://static.wikia.nocookie.net/mcdonalds/images/2/20/McDonalds_-_Logotipo.png/revision/latest?cb=20201201232815&path-prefix=es"
+      "imatge": "https://img.freepik.com/psd-gratis/representacion-3d-preguntas-fondo_23-2151455632.jpg"
     },
-
-
-
-
-
-
-
-
-
-
-
-
     {
       "id": 6,
       "pregunta": "Quina marca d'electrònica és coneguda per les seves televisions i consoles de videojocs?",
@@ -192,22 +139,12 @@
         },
         {
           "text": "Panasonic",
-          "imatge": "https://static.vecteezy.com/system/resources/previews/020/336/721/non_2x/panasonic-logo-panasonic-icon-free-free-vector.jpg"
+          "imatge": "https://logodownload.org/wp-content/uploads/2017/05/panasonic-logo-0.png"
         }
       ],
       "resposta_correcta": 0,
-      "imatge": "https://cdn.icon-icons.com/icons2/3915/PNG/512/sony_logo_icon_249569.png"
+      "imatge": "https://img.freepik.com/psd-gratis/representacion-3d-preguntas-fondo_23-2151455632.jpg"
     },
-
-
-
-
-
-
-
-
-
-
     {
       "id": 7,
       "pregunta": "Quina marca de roba és famosa pel seu logotip amb un cavall?",
@@ -230,17 +167,8 @@
         }
       ],
       "resposta_correcta": 1,
-      "imatge": "https://logos-world.net/wp-content/uploads/2020/04/Ralph-Lauren-Logo.png"
+      "imatge": "https://img.freepik.com/psd-gratis/representacion-3d-preguntas-fondo_23-2151455632.jpg"
     },
-
-
-
-
-
-
-
-
-
     {
       "id": 8,
       "pregunta": "Quina marca de perfums és coneguda pel seu logotip d'un got amb una tapa?",
@@ -259,21 +187,12 @@
         },
         {
           "text": "Gucci",
-          "imatge": "https://i.pinimg.com/736x/d7/b0/4f/d7b04fe29db5b8bf867b0e8aabcd20ff.jpg"
+          "imatge": "https://upload.wikimedia.org/wikipedia/commons/7/79/1960s_Gucci_Logo.svg"
         }
       ],
       "resposta_correcta": 0,
-      "imatge": "https://upload.wikimedia.org/wikipedia/en/thumb/9/92/Chanel_logo_interlocking_cs.svg/1280px-Chanel_logo_interlocking_cs.svg.png"
+      "imatge": "https://img.freepik.com/psd-gratis/representacion-3d-preguntas-fondo_23-2151455632.jpg"
     },
-
-
-
-
-
-
-
-
-
     {
       "id": 9,
       "pregunta": "Quina marca de càmeres és famosa per les seves càmeres réflex?",
@@ -288,7 +207,7 @@
         },
         {
           "text": "Fujifilm",
-          "imatge": "https://asset.fujifilm.com/holdings/files/2023-09/1a9c1c0a3c005e8e0abf2a2afcddb79f/logo_05_02.jpg"
+          "imatge": "https://logos-world.net/wp-content/uploads/2020/12/Fujifilm-Emblem.png"
         },
         {
           "text": "Olympus",
@@ -296,16 +215,8 @@
         }
       ],
       "resposta_correcta": "3",
-      "imatge": "https://logos-world.net/wp-content/uploads/2020/08/Canon-Logo.png"
+      "imatge": "https://img.freepik.com/psd-gratis/representacion-3d-preguntas-fondo_23-2151455632.jpg"
     },
-
-
-
-
-
-
-
-
     {
       "id": 10,
       "pregunta": "Quina marca de pastisseria és coneguda pels seus donuts?",
@@ -328,16 +239,9 @@
         }
       ],
       "resposta_correcta": 1,
-      "imatge": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Krispy_Kreme_logo.svg/2560px-Krispy_Kreme_logo.svg.png",
+      "imatge": "https://img.freepik.com/psd-gratis/representacion-3d-preguntas-fondo_23-2151455632.jpg",
       "respuestaCorrecta": "0"
     },
-
-
-
-
-
-
-    
     {
       "id": 11,
       "pregunta": "wewewewe",

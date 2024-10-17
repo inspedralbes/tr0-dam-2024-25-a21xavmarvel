@@ -11,7 +11,7 @@
                 {
                     "text": "Mercedes-Benz",
                     "imatge": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Mercedes-Benz_Star_2022.svg/800px-Mercedes-Benz_Star_2022.svg.png"
-                },
+                }, 
                 {
                     "text": "Audi",
                     "imatge": "https://todosobrelogos.com/wp-content/uploads/2023/01/Audi-Logo.png"
@@ -24,7 +24,7 @@
             "resposta_correcta": 0,
             "encerts": 75,
             "intents": 100,
-            "imatge": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/BMW.svg/1200px-BMW.svg.png"
+            "imatge": "https://img.freepik.com/psd-gratis/representacion-3d-preguntas-fondo_23-2151455632.jpg"
         },
         {
             "id": 2,
@@ -50,7 +50,7 @@
             "resposta_correcta": 2,
             "encerts": 80,
             "intents": 100,
-            "imatge": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Logo_NIKE.svg/2560px-Logo_NIKE.svg.png"
+            "imatge": "https://img.freepik.com/psd-gratis/representacion-3d-preguntas-fondo_23-2151455632.jpg"
         },
         {
             "id": 3,
@@ -76,7 +76,7 @@
             "resposta_correcta": 1,
             "encerts": 60,
             "intents": 100,
-            "imatge": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Coca-Cola_logo.svg/1024px-Coca-Cola_logo.svg.png"
+            "imatge": "https://img.freepik.com/psd-gratis/representacion-3d-preguntas-fondo_23-2151455632.jpg"
         },
         {
             "id": 4,
@@ -102,7 +102,7 @@
             "resposta_correcta": 1,
             "encerts": 90,
             "intents": 100,
-            "imatge": "https://1000logos.net/wp-content/uploads/2016/10/Apple-Logo.png"
+            "imatge": "https://img.freepik.com/psd-gratis/representacion-3d-preguntas-fondo_23-2151455632.jpg"
         },
         {
             "id": 5,
@@ -128,7 +128,7 @@
             "resposta_correcta": 0,
             "encerts": 100,
             "intents": 100,
-            "imatge": "https://static.wikia.nocookie.net/mcdonalds/images/2/20/McDonalds_-_Logotipo.png/revision/latest?cb=20201201232815&path-prefix=es"
+            "imatge": "https://img.freepik.com/psd-gratis/representacion-3d-preguntas-fondo_23-2151455632.jpg"
         },
         {
             "id": 6,
@@ -154,7 +154,7 @@
             "resposta_correcta": 0,
             "encerts": 85,
             "intents": 100,
-            "imatge": "https://cdn.icon-icons.com/icons2/3915/PNG/512/sony_logo_icon_249569.png"
+            "imatge": "https://img.freepik.com/psd-gratis/representacion-3d-preguntas-fondo_23-2151455632.jpg"
         },
         {
             "id": 7,
@@ -180,7 +180,7 @@
             "resposta_correcta": 1,
             "encerts": 70,
             "intents": 100,
-            "imatge": "https://logos-world.net/wp-content/uploads/2020/04/Ralph-Lauren-Logo.png"
+            "imatge": "https://img.freepik.com/psd-gratis/representacion-3d-preguntas-fondo_23-2151455632.jpg"
         },
         {
             "id": 8,
@@ -206,7 +206,7 @@
             "resposta_correcta": 1,
             "encerts": 95,
             "intents": 100,
-            "imatge": "https://1000logos.net/wp-content/uploads/2016/10/Apple-Logo.png"
+            "imatge": "https://img.freepik.com/psd-gratis/representacion-3d-preguntas-fondo_23-2151455632.jpg"
         },
         {
             "id": 9,
@@ -232,7 +232,7 @@
             "resposta_correcta": 0,
             "encerts": 60,
             "intents": 100,
-            "imatge": "https://logos-world.net/wp-content/uploads/2020/04/Tommy-Hilfiger-Logo.png"
+            "imatge": "https://img.freepik.com/psd-gratis/representacion-3d-preguntas-fondo_23-2151455632.jpg"
         },
         {
             "id": 10,
@@ -258,7 +258,7 @@
             "resposta_correcta": 2,
             "encerts": 70,
             "intents": 100,
-            "imatge": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Nintendo_logo.svg/1280px-Nintendo_logo.svg.png"
+            "imatge": "https://img.freepik.com/psd-gratis/representacion-3d-preguntas-fondo_23-2151455632.jpg"
         },
         {
             "id": 11,
@@ -284,7 +284,7 @@
             "resposta_correcta": 0,
             "encerts": 50,
             "intents": 100,
-            "imatge": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/MAC_Cosmetics_logo.svg/2560px-MAC_Cosmetics_logo.svg.png"
+            "imatge": "https://img.freepik.com/psd-gratis/representacion-3d-preguntas-fondo_23-2151455632.jpg"
         },
         {
             "id": 12,
@@ -310,7 +310,7 @@
             "resposta_correcta": 0,
             "encerts": 55,
             "intents": 100,
-            "imatge": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Red_Bull_logo.svg/2560px-Red_Bull_logo.svg.png"
+            "imatge": "https://img.freepik.com/psd-gratis/representacion-3d-preguntas-fondo_23-2151455632.jpg"
         }
     ]
 }
