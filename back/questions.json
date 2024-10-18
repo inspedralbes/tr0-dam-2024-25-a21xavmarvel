@@ -1,0 +1,270 @@
+{
+  "preguntes": [
+    {
+      "id": 1,
+      "pregunta": "Quina marca de cotxes utilitza el lema 'Ultimate Driving Machine'?",
+      "respostes": [
+        {
+          "text": "BMW",
+          "imatge": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/BMW.svg/1200px-BMW.svg.png"
+        },
+        {
+          "text": "Mercedes-Benz",
+          "imatge": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Mercedes-Benz_Star_2022.svg/800px-Mercedes-Benz_Star_2022.svg.png"
+        },
+        {
+          "text": "Audi",
+          "imatge": "https://todosobrelogos.com/wp-content/uploads/2023/01/Audi-Logo.png"
+        },
+        {
+          "text": "Lexus",
+          "imatge": "https://logos-world.net/wp-content/uploads/2021/10/Lexus-Logo.png"
+        }
+      ],
+      "resposta_correcta": 0,
+      "imatge": "https://img.freepik.com/psd-gratis/representacion-3d-preguntas-fondo_23-2151455632.jpg"
+    },
+    {
+      "id": 2,
+      "pregunta": "Quina marca és famosa per les seves sabates de sport amb el logotip d'un swoosh?",
+      "respostes": [
+        {
+          "text": "Adidas",
+          "imatge": "https://ams3.digitaloceanspaces.com/graffica/2022/12/adidas_318-565831.webp"
+        },
+        {
+          "text": "Puma",
+          "imatge": "https://1000logos.net/wp-content/uploads/2021/04/Puma-logo.png"
+        },
+        {
+          "text": "Nike",
+          "imatge": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Logo_NIKE.svg/2560px-Logo_NIKE.svg.png"
+        },
+        {
+          "text": "Reebok",
+          "imatge": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Reebok_2019_logo.svg/2560px-Reebok_2019_logo.svg.png"
+        }
+      ],
+      "resposta_correcta": 2,
+      "imatge": "https://img.freepik.com/psd-gratis/representacion-3d-preguntas-fondo_23-2151455632.jpg"
+    },
+    {
+      "id": 3,
+      "pregunta": "Quina marca de refrescs és coneguda pel seu logotip vermell i blanc?",
+      "respostes": [
+        {
+          "text": "Pepsi",
+          "imatge": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Pepsi_logo_2014.svg/754px-Pepsi_logo_2014.svg.png"
+        },
+        {
+          "text": "Coca-Cola",
+          "imatge": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Coca-Cola_logo.svg/1024px-Coca-Cola_logo.svg.png"
+        },
+        {
+          "text": "Sprite",
+          "imatge": "https://cdn.worldvectorlogo.com/logos/sprite-8.svg"
+        },
+        {
+          "text": "Fanta",
+          "imatge": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Fanta_logo_%282016%29.png"
+        }
+      ],
+      "resposta_correcta": "2",
+      "imatge": "https://img.freepik.com/psd-gratis/representacion-3d-preguntas-fondo_23-2151455632.jpg",
+      "respuestaCorrecta": "2"
+    },
+    {
+      "id": 4,
+      "pregunta": "Quina marca de tecnologia és famosa pels seus telèfons i ordinadors Mac?",
+      "respostes": [
+        {
+          "text": "Microsoft",
+          "imatge": "https://www.insights.la/wp-content/uploads/2015/04/Microsoft-logo-m-box-880x660.png"
+        },
+        {
+          "text": "Apple",
+          "imatge": "https://1000logos.net/wp-content/uploads/2016/10/Apple-Logo.png"
+        },
+        {
+          "text": "Samsung",
+          "imatge": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Samsung_Logo.svg/2560px-Samsung_Logo.svg.png"
+        },
+        {
+          "text": "Sony",
+          "imatge": "https://1000marcas.net/wp-content/uploads/2020/01/logo-Sony.png"
+        }
+      ],
+      "resposta_correcta": "1",
+      "imatge": "https://img.freepik.com/psd-gratis/representacion-3d-preguntas-fondo_23-2151455632.jpg"
+    },
+    {
+      "id": 5,
+      "pregunta": "Quina marca de menjar ràpid és famosa pel seu logotip amb un pal de hamburguesa?",
+      "respostes": [
+        {
+          "text": "McDonald's",
+          "imatge": "https://brandemia.org/contenido/subidas/2022/10/marca-mcdonalds-logo.png"
+        },
+        {
+          "text": "Burger King",
+          "imatge": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Burger_King_2020.svg/1879px-Burger_King_2020.svg.png"
+        },
+        {
+          "text": "KFC",
+          "imatge": "https://upload.wikimedia.org/wikipedia/sco/thumb/b/bf/KFC_logo.svg/1200px-KFC_logo.svg.png"
+        },
+        {
+          "text": "Wendy's",
+          "imatge": "https://1000marcas.net/wp-content/uploads/2020/10/Wendys-logo.png"
+        }
+      ],
+      "resposta_correcta": 0,
+      "imatge": "https://img.freepik.com/psd-gratis/representacion-3d-preguntas-fondo_23-2151455632.jpg"
+    },
+    {
+      "id": 6,
+      "pregunta": "Quina marca d'electrònica és coneguda per les seves televisions i consoles de videojocs?",
+      "respostes": [
+        {
+          "text": "Sony",
+          "imatge": "https://cdn.icon-icons.com/icons2/3915/PNG/512/sony_logo_icon_249569.png"
+        },
+        {
+          "text": "LG",
+          "imatge": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/LG_logo_%282014%29.svg/600px-LG_logo_%282014%29.svg.png"
+        },
+        {
+          "text": "Samsung",
+          "imatge": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Samsung_Logo.svg/2560px-Samsung_Logo.svg.png"
+        },
+        {
+          "text": "Panasonic",
+          "imatge": "https://logodownload.org/wp-content/uploads/2017/05/panasonic-logo-0.png"
+        }
+      ],
+      "resposta_correcta": 0,
+      "imatge": "https://img.freepik.com/psd-gratis/representacion-3d-preguntas-fondo_23-2151455632.jpg"
+    },
+    {
+      "id": 7,
+      "pregunta": "Quina marca de roba és famosa pel seu logotip amb un cavall?",
+      "respostes": [
+        {
+          "text": "Lacoste",
+          "imatge": "https://logos-world.net/wp-content/uploads/2020/09/Lacoste-Logo.png"
+        },
+        {
+          "text": "Ralph Lauren",
+          "imatge": "https://logos-world.net/wp-content/uploads/2020/04/Ralph-Lauren-Logo.png"
+        },
+        {
+          "text": "Tommy Hilfiger",
+          "imatge": "https://logos-world.net/wp-content/uploads/2020/04/Tommy-Hilfiger-Logo.png"
+        },
+        {
+          "text": "Calvin Klein",
+          "imatge": "https://upload.wikimedia.org/wikipedia/commons/e/e2/CK_Calvin_Klein_logo.svg"
+        }
+      ],
+      "resposta_correcta": 1,
+      "imatge": "https://img.freepik.com/psd-gratis/representacion-3d-preguntas-fondo_23-2151455632.jpg"
+    },
+    {
+      "id": 8,
+      "pregunta": "Quina marca de perfums és coneguda pel seu logotip d'un got amb una tapa?",
+      "respostes": [
+        {
+          "text": "Chanel",
+          "imatge": "https://upload.wikimedia.org/wikipedia/en/thumb/9/92/Chanel_logo_interlocking_cs.svg/1280px-Chanel_logo_interlocking_cs.svg.png"
+        },
+        {
+          "text": "Dior",
+          "imatge": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Dior_Logo.svg/2560px-Dior_Logo.svg.png"
+        },
+        {
+          "text": "Versace",
+          "imatge": "https://www.batesmeron.com/wp-content/uploads/Versace.png"
+        },
+        {
+          "text": "Gucci",
+          "imatge": "https://upload.wikimedia.org/wikipedia/commons/7/79/1960s_Gucci_Logo.svg"
+        }
+      ],
+      "resposta_correcta": 0,
+      "imatge": "https://img.freepik.com/psd-gratis/representacion-3d-preguntas-fondo_23-2151455632.jpg"
+    },
+    {
+      "id": 9,
+      "pregunta": "Quina marca de càmeres és famosa per les seves càmeres réflex?",
+      "respostes": [
+        {
+          "text": "Nikon",
+          "imatge": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Nikon_Logo.svg/512px-Nikon_Logo.svg.png"
+        },
+        {
+          "text": "Canon",
+          "imatge": "https://logos-world.net/wp-content/uploads/2020/08/Canon-Logo.png"
+        },
+        {
+          "text": "Fujifilm",
+          "imatge": "https://logos-world.net/wp-content/uploads/2020/12/Fujifilm-Emblem.png"
+        },
+        {
+          "text": "Olympus",
+          "imatge": "https://www.olympusamerica.com/sites/default/files/styles/card/public/2021-10/logo-white-gold.jpg?h=d595f4a7&itok=F4m_7BQB"
+        }
+      ],
+      "resposta_correcta": "3",
+      "imatge": "https://img.freepik.com/psd-gratis/representacion-3d-preguntas-fondo_23-2151455632.jpg"
+    },
+    {
+      "id": 10,
+      "pregunta": "Quina marca de pastisseria és coneguda pels seus donuts?",
+      "respostes": [
+        {
+          "text": "Dunkin' Donuts",
+          "imatge": "https://i.pinimg.com/originals/5a/f4/2b/5af42b2e31010a24ac46d2cb5a0e60a6.png"
+        },
+        {
+          "text": "Krispy Kreme",
+          "imatge": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Krispy_Kreme_logo.svg/2560px-Krispy_Kreme_logo.svg.png"
+        },
+        {
+          "text": "Tim Hortons",
+          "imatge": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Tim_Hortons_logo.svg/2560px-Tim_Hortons_logo.svg.png"
+        },
+        {
+          "text": "Starbucks",
+          "imatge": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d3/Starbucks_Corporation_Logo_2011.svg/640px-Starbucks_Corporation_Logo_2011.svg.png"
+        }
+      ],
+      "resposta_correcta": 1,
+      "imatge": "https://img.freepik.com/psd-gratis/representacion-3d-preguntas-fondo_23-2151455632.jpg",
+      "respuestaCorrecta": "0"
+    },
+    {
+      "id": 11,
+      "pregunta": "wewewewe",
+      "respostes": [
+        {
+          "text": "weweweewqqweqwe",
+          "imatge": "weweweqweqweqwe"
+        },
+        {
+          "text": "weweweqweqweqwe",
+          "imatge": "weewqweqwewqe"
+        },
+        {
+          "text": "ewweweqweqweqwe",
+          "imatge": "weweweqqwe"
+        },
+        {
+          "text": "weweqweqweqwe",
+          "imatge": "eweeqwqwe"
+        }
+      ],
+      "resposta_correcta": "0",
+      "respuestaCorrecta": "0"
+    }
+  ]
+}
