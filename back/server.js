@@ -10,7 +10,7 @@ const questionsFilePath = './questions.json';
 app.use(bodyParser.json());
 app.use(cors());
 
-// Función para leer el archivo JSON
+// aarchivo JSON
 const readQuestions = () => {
     return new Promise((resolve, reject) => {
         fs.readFile(questionsFilePath, 'utf8', (err, data) => {
@@ -27,7 +27,7 @@ const readQuestions = () => {
     });
 };
 
-// Función para escribir el archivo JSON
+// escribir el archivo JSON
 const writeQuestions = (questions) => {
     return new Promise((resolve, reject) => {
         fs.writeFile(questionsFilePath, JSON.stringify(questions, null, 2), (err) => {
@@ -41,7 +41,7 @@ const writeQuestions = (questions) => {
 
 
 
-// EndPoint para obtener todas las preguntas
+// preguntas
 app.get('/preguntes', async (req, res) => {
     try {
         const questions = await readQuestions();
@@ -55,7 +55,7 @@ app.get('/preguntes', async (req, res) => {
 
 
 
-// EndPoint para agregar una nueva pregunta
+// nueva pregunta
 app.post('/preguntes', async (req, res) => {
     const newQuestion = req.body;
     try {
@@ -68,7 +68,7 @@ app.post('/preguntes', async (req, res) => {
     }
 });
 
-// EndPoint para actualizar una pregunta
+// actualizar una sola pregunta
 app.put('/preguntes/:id', async (req, res) => {
     const { id } = req.params;
     const updatedQuestion = req.body;
@@ -87,7 +87,7 @@ app.put('/preguntes/:id', async (req, res) => {
     }
 });
 
-// EndPoint para eliminar una pregunta
+// eliminar una preguntass
 app.delete('/preguntes/:id', async (req, res) => {
     const { id } = req.params;
     try {
@@ -109,7 +109,7 @@ app.delete('/preguntes/:id', async (req, res) => {
 
 
 
-// Servidor en escucha
+// Servidor, puerto enlace daminspedralbes.
 app.listen(port, () => {
     console.log(`Servidor corriendo en http://dam.inspedralbes.cat:${port}`);
 });
